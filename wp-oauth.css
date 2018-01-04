@@ -28,8 +28,8 @@ body.wpoa-lightbox-visible {overflow:hidden;}
 #wpoa-logo {margin-left:0.5em; margin-bottom:0.5em; width:64px; height:64px; float:right; background-image:url(http://ps.w.org/wp-oauth/assets/icon-128x128.png);}
 #wpoa-logo:hover {background-image:url(http://ps.w.org/wp-oauth/assets/thepb.jpg);}
 
-#wpoa-settings-col1 {width:68%; float:left;}
-#wpoa-settings-col2 {width:30%; float:right;}
+#wpoa-settings-col1 {clear: both; width:68%; float:left;}
+#wpoa-settings-col2 {clear: both; width:30%; float:right;}
 
 #wpoa-settings-header {margin-top:1em;}
 #wpoa-settings-header nav ul {display:inline; margin-left:0;}

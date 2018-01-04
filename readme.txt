@@ -1,6 +1,5 @@
 === WP-OAuth ===
 Contributors: hectavex
-Donate link: http://glassocean.net
 Tags: login, membership, users, registration, oauth, social, social networking, community, security, connect with, authentication, authorization
 Requires at least: 4.0
 Tested up to: 4.1
@@ -57,7 +56,7 @@ Visit the [GitHub development repository](https://github.com/perrybutler/WP-OAut
 Add a custom login form to your site using the [wpoa_login_form] shortcode. For example:
 
     [wpoa_login_form layout="buttons-column" align="left"]
-	
+
 *Possible shortcode attributes:*
 
 * **layout** - determines whether to display the login buttons as links or buttons, stacked vertically or lined up horizontally. Possible values: links-row, links-column, buttons-row, buttons-column
